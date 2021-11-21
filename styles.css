@@ -1,0 +1,14 @@
+.container {
+    width: 600px;
+    height:600px;
+    background-color: lightgrey;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    border: 1px solid white;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    
+}
